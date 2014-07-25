@@ -19,13 +19,19 @@ Directories:
 
 - ./yassour2009/
   This contains original files of Yassour et.al. (2009).
-  http://www.pnas.org/content/early/2009/02/10/0812841106
-  http://www.pnas.org/content/vol0/issue2009/images/data/0812841106/DCSupplemental/SD3.xls
+  Include 6577 ORFs and 6 experimens.
+
+  URL: http://www.pnas.org/content/early/2009/02/10/0812841106
+       http://www.pnas.org/content/vol0/issue2009/images/data/0812841106/DCSupplemental/SD3.xls
 
 - ./yeast_s288c/
   This is original yeast s288c files.
-  S288c genome (file: orf_coding.fasta) from S. cerevisiae Genome
-  Database at http://www.yeastgenome.org/.
+  From S. cerevisiae Genome Database at http://www.yeastgenome.org/.
+  Include 5530 ORFs.
+
+  File: orf_coding.fasta
+  Date: 03-Feb-2011
+  URL: http://downloads.yeastgenome.org/sequence/S288C_reference/orf_dna/orf_coding.fasta.gz
 
 =====
 References:
@@ -35,4 +41,8 @@ References:
   Friedman N, Regev A. (2009) Ab initio construction of a eukaryotic
   transcriptome by massively parallel mRNA sequencing.
   Proc Natl Acad Sci USA 106(9):3264-9. [PMID:19208812]
+
+- Gilchrist, et.al. (in review).
+
+- Chen, et.al. (in review).
 
