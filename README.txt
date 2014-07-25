@@ -20,7 +20,6 @@ Directories:
 - ./yassour2009/
   This contains original files of Yassour et.al. (2009).
   Include 6577 ORFs and 6 experimens.
-
   URL: http://www.pnas.org/content/early/2009/02/10/0812841106
        http://www.pnas.org/content/vol0/issue2009/images/data/0812841106/DCSupplemental/SD3.xls
 
@@ -28,7 +27,6 @@ Directories:
   This is original yeast s288c files.
   From S. cerevisiae Genome Database at http://www.yeastgenome.org/.
   Include 5530 ORFs.
-
   File: orf_coding.fasta
   Date: 03-Feb-2011
   URL: http://downloads.yeastgenome.org/sequence/S288C_reference/orf_dna/orf_coding.fasta.gz
