@@ -39,7 +39,9 @@ References:
   transcriptome by massively parallel mRNA sequencing.
   Proc Natl Acad Sci USA 106(9):3264-9. [PMID:19208812]
 
-- Gilchrist, et.al. (in review).
+- Gilchrist M, Chen WC, Shah P, Zaretzki R (2014) Estimating gene expression
+and codon specific translational efficiencies, mutation biases, and selection
+coefficients from genomic data. bioRxiv, 009670.
 
 - Chen, et.al. (in review).
 
